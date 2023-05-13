@@ -92,7 +92,7 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://jinyisland.kr/assets/thumb/express.png"
       alt="express"
       width="40"
       height="40"
