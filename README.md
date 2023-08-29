@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm szhin</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam 🇻🇳</h3>
+<h3 align="center">A passionate developer from Viet Nam 🇻🇳</h3>
 
 - 🔭 I’m currently study **at an university**
 
-- 🌱 I’m currently learning **ReactJS, Nodejs**
+- 🌱 I’m currently learning **Flutter & Dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/szhin?tab=repositories](https://github.com/szhin?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.instagram.com/im_peshin/](https://www.instagram.com/im_peshin/)
 
-- 💬 Ask me about **react, nodejs, javascript**
+- 💬 Ask me about **flutter, react, nodejs, javascript**
 
 - 📫 How to reach me **uzumakinarutoshin@gmail.com**
 
@@ -50,7 +50,22 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+  <img 
+    src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" 
+    alt="flutter" 
+    width="80" 
+    height="40"
+  />
+</a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+  <img 
+    src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" 
+    alt="dart" 
+    width="40" 
+    height="40"
+  />
+</a>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img
