@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **flutter, react, nodejs, javascript**
 
-- 📫 How to reach me **uzumakinarutoshin@gmail.com**
+- 📫 How to reach me **imcaobang0612@gmail.com**
 
 - ⚡ Fun fact **I think I'm a positive person who always wants to share my energy with everyone!!**
 
