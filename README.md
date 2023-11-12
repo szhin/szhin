@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I think I'm a positive person who always wants to share my energy with everyone!!**
 
+![](https://komarev.com/ghpvc/?username=szhin&style=for-the-badge&color=ff69b4&label=PROFILE+VIEWS)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <img
