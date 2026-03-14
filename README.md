@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm szhin</h1>
 <h3 align="center">A passionate developer from Viet Nam 🇻🇳</h3>
 
-- 🔭 I’m currently study **at an university**
+- 🔭 I’m currently study at "Trường Đại Học Khoa học Tự nhiên TP. Hồ Chí Minh"
 
 - 🌱 I’m currently learning **Flutter & Dart**
 
