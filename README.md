@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently study at "Trường Đại Học Khoa học Tự nhiên TP. Hồ Chí Minh"
 
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m currently learning **Embbedded & Robot** - just a newbie
 
 - 👨‍💻 All of my projects are available at [https://github.com/szhin?tab=repositories](https://github.com/szhin?tab=repositories)
 
