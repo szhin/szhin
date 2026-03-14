@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/szhin?tab=repositories](https://github.com/szhin?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.instagram.com/im_peshin/](https://www.instagram.com/im_peshin/)
-
 - 💬 Ask me about **flutter, react, nodejs, javascript**
 
 - 📫 How to reach me **imcaobang0612@gmail.com**
