@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm szhin</h1>
 <h3 align="center">A passionate developer from Viet Nam 🇻🇳</h3>
 
-- 🔭 I’m currently study at "Trường Đại Học Khoa học Tự nhiên TP. Hồ Chí Minh"
+- 🔭 I’m currently a second-year student "Trường Đại Học Khoa học Tự nhiên TP. Hồ Chí Minh"
 
 - 🌱 I’m currently learning **Embbedded & Robot** - just a newbie
 
 - 👨‍💻 All of my projects are available at [https://github.com/szhin?tab=repositories](https://github.com/szhin?tab=repositories)
-
-- 💬 Ask me about **flutter, react, nodejs, javascript**
 
 - 📫 How to reach me **imcaobang0612@gmail.com**
 
