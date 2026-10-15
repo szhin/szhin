@@ -1,205 +1,75 @@
-<h1 align="center">Hi 👋, I'm szhin</h1>
-<h3 align="center">A passionate developer from Viet Nam 🇻🇳</h3>
+<div align="center">
 
-- 🔭 I’m currently a second-year student "Trường Đại Học Khoa học Tự nhiên TP. Hồ Chí Minh"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Pham%20Cao%20Bang&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Semiconductor%20%C2%B7%20Embedded%20Systems&descAlignY=58&descSize=16" alt="header" />
 
-- 🌱 I’m currently learning **Embbedded & Robot** - just a newbie
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-imcaobang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imcaobang)
+[![Facebook](https://img.shields.io/badge/Facebook-bangpham0612-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bangpham0612)
+[![Email](https://img.shields.io/badge/Email-mien.pham@i3ard.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mien.pham@i3ard.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/szhin?tab=repositories](https://github.com/szhin?tab=repositories)
+</div>
 
-- 📫 How to reach me **imcaobang0612@gmail.com**
+## 👋 About me
 
-- ⚡ Fun fact **I think I'm a positive person who always wants to share my energy with everyone!!**
+Hi, I'm **Bang (Pham Cao Bang)** — a 3rd-year student at the **University of Science, VNU-HCM** (Đại học Khoa học Tự nhiên).
+I'm building my path toward **Artificial Intelligence**, **semiconductor technology** and **embedded programming**, with a focus on systems that connect software with real hardware.
 
-![](https://komarev.com/ghpvc/?username=szhin&style=for-the-badge&color=ff69b4&label=PROFILE+VIEWS)
+- 🔭 Currently working on **Edge-AIoT** robotics and desktop productivity tools
+- 🌱 Learning: embedded systems, computer architecture, machine learning on the edge
+- 🧩 Interested in: low-level programming, IC/semiconductor basics, practical AI
+- 🍂 Philosophy: *stoicism* — "Hope you will be happy"
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <img
-    align="right"
-    alt="Coding"
-    width="400"  src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
-  />
-  <a href="https://fb.com/whoimme" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="whoimme"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/im_peshin" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="im_peshin"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.youtube.com/@im_peshin" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="im_peshin"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://twitter.com/lotinhthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lotinhthi" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech stack
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-  <img 
-    src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" 
-    alt="flutter" 
-    width="80" 
-    height="40"
-  />
-</a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-  <img 
-    src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" 
-    alt="dart" 
-    width="40" 
-    height="40"
-  />
-</a>
+**Languages**
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-    alt="react"
-    width="40"
-    height="40"
-  />
-</a>
-<a
-  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-  target="_blank"
-  rel="noreferrer"
->
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript"
-    width="40"
-    height="40"
-  />
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
+**Frameworks & Tools**
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://jinyisland.kr/assets/thumb/express.png"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-   
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
- 
+![Qt](https://img.shields.io/badge/PySide6%20/%20Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+**Focus areas**
 
+![AI](https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-0F2027?style=for-the-badge)
+![Embedded](https://img.shields.io/badge/Embedded%20Systems-203A43?style=for-the-badge)
+![IoT](https://img.shields.io/badge/Edge--AIoT-2C5364?style=for-the-badge)
+![Semiconductor](https://img.shields.io/badge/Semiconductor-4A6572?style=for-the-badge)
 
+## 🚀 Featured projects
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=szhin&show_icons=true&locale=en"
-    alt="szhin"
-  />
-</p>
+| Project | Description | Tech |
+|---------|-------------|------|
+| 📅 [**Norilan**](https://github.com/szhin/norilan) | Smart desktop app for managing schedules & assignments on Windows: multi-view calendar, file attachments, smart reminders, light/dark themes, accent-insensitive Vietnamese search, 5 languages. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Qt](https://img.shields.io/badge/-PySide6-41CD52?logo=qt&logoColor=white&style=flat-square) |
+| 🤖 [**lazy-guys-robot**](https://github.com/szhin/lazy-guys-robot) | Smart desktop robot with a layered **Edge-AIoT** architecture — team project by the *Lazy* team. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![IoT](https://img.shields.io/badge/-Edge--AIoT-2C5364?style=flat-square) |
+| 🅿️ [**duanbaidoxe**](https://github.com/szhin/duanbaidoxe) | Parking lot management project written in C. | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square) |
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=szhin&"
-    alt="szhin"
-  />
-</p>
+## 📊 GitHub stats
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=szhin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szhin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=szhin&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+
+</div>
+
+## 🤝 Let's connect
+
+I'm open to learning, collaboration and internship opportunities in **AI**, **embedded** and **semiconductor** fields. Feel free to reach out!
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" alt="footer" />
+
+</div>
