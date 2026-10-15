@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Pham%20Cao%20Bang&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Semiconductor%20%C2%B7%20Embedded%20Systems&descAlignY=58&descSize=16" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Pham%20Cao%20Bang&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%C2%B7%20AI%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Semiconductor&descAlignY=58&descSize=16" alt="header" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imcaobang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imcaobang)
 [![Facebook](https://img.shields.io/badge/Facebook-bangpham0612-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bangpham0612)
-[![Email](https://img.shields.io/badge/Email-mien.pham@i3ard.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imcaobang0612@gmail.com)
+[![Email](https://img.shields.io/badge/Email-imcaobang0612@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imcaobang0612@gmail.com)
 
 </div>
 
@@ -49,7 +49,7 @@ I'm building my path toward **Artificial Intelligence**, **semiconductor technol
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 📅 [**Norilan**](https://github.com/szhin/norilan) | Smart desktop app for managing schedules & assignments on Windows: multi-view calendar, file attachments, smart reminders, light/dark themes, accent-insensitive Vietnamese search, 5 languages. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Qt](https://img.shields.io/badge/-PySide6-41CD52?logo=qt&logoColor=white&style=flat-square) |
+| 📅 [**Norilan**](https://github.com/szhin/norilan) | Smart desktop app for managing schedules & assignments: multi-view calendar, file attachments, smart reminders, light/dark themes, accent-insensitive Vietnamese search, 5 languages. **Currently available on macOS and Windows only.** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Qt](https://img.shields.io/badge/-PySide6-41CD52?logo=qt&logoColor=white&style=flat-square) |
 | 🤖 [**lazy-guys-robot**](https://github.com/szhin/lazy-guys-robot) | Smart desktop robot with a layered **Edge-AIoT** architecture — team project by the *Lazy* team. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![IoT](https://img.shields.io/badge/-Edge--AIoT-2C5364?style=flat-square) |
 | 🅿️ [**duanbaidoxe**](https://github.com/szhin/duanbaidoxe) | Parking lot management project written in C. | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square) |
 
