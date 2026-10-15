@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imcaobang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imcaobang)
 [![Facebook](https://img.shields.io/badge/Facebook-bangpham0612-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bangpham0612)
-[![Email](https://img.shields.io/badge/Email-mien.pham@i3ard.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mien.pham@i3ard.com)
+[![Email](https://img.shields.io/badge/Email-mien.pham@i3ard.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imcaobang0612@gmail.com)
 
 </div>
 
